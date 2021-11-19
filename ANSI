@@ -1,0 +1,7 @@
+ANSIBLE = Automation
+It is owned by red hat . If we have one system and we wanna install some package to we can manage it easily since its only one machine . what if we have ten machines it will be 
+a problem . Because  we have to install this in all ten machines . But by using ansible we can automat the process. By using ansible we can make one machine server as control
+server or master server and then control all the other servers . we  can automat the process by giving command or doing the process we want in only one server .
+Ansible is not the only tool which perform this process but it is easiest tool to handle.
+          It is python based and is agentless i.e. if we want to automat by using other tools we should install some agent in all the systems or servers we have manually . But here 
+in ansible it simply connects with other systems with SSH and runs commands. It is an open source. It has PUSH configuration ..
